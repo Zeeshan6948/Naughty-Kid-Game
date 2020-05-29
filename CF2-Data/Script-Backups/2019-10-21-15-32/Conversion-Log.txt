@@ -1,0 +1,98 @@
+Converting script [1 / 5]	[\RFPSP\Scripts\Camera\CameraControl.cs]
+	Fragments : 1
+		[ 0] : Line:  357	InputMethod   GetAxis             	("Mouse Scroll Wheel")
+
+Converting script [2 / 5]	[\RFPSP\Scripts\Camera\MovePlayerAndCamera.cs]
+	Fragments : 3
+		[ 0] : Line:   70	InputMethod   GetKeyDown          	(KeyCode.Insert)
+		[ 1] : Line:   73	InputMethod   GetKeyDown          	(KeyCode.Delete)
+		[ 2] : Line:   76	InputMethod   GetKeyDown          	(KeyCode.End)
+
+Converting script [3 / 5]	[\RFPSP\Scripts\Camera\SmoothMouseLook.cs]
+	Fragments : 7
+		[ 0] : Line:   74	Other mod.	[Cursor.visible]
+		[ 1] : Line:   80	Other mod.	[Cursor.lockState]
+		[ 2] : Line:   81	Other mod.	[Cursor.visible]
+		[ 3] : Line:   91	Other mod.	[Cursor.lockState]
+		[ 4] : Line:   92	Other mod.	[Cursor.visible]
+		[ 5] : Line:  140	Other mod.	[Cursor.lockState]
+		[ 6] : Line:  141	Other mod.	[Cursor.visible]
+
+Converting script [4 / 5]	[\RFPSP\Scripts\Player\InputControl.cs]
+	Fragments : 58
+		[ 0] : Line:  167	InputMethod   GetButton           	("Left")
+		[ 1] : Line:  168	InputMethod   GetButton           	("Right")
+		[ 2] : Line:  169	InputMethod   GetButton           	("Forward")
+		[ 3] : Line:  170	InputMethod   GetButton           	("Back")
+		[ 4] : Line:  190	InputMethod   GetAxis             	("Joystick Move X")
+		[ 5] : Line:  190	InputMethod   GetAxis             	("Joystick Move Y")
+		[ 6] : Line:  197	InputMethod   GetAxis             	("Joystick Look X")
+		[ 7] : Line:  197	InputMethod   GetAxis             	("Joystick Look Y")
+		[ 8] : Line:  209	InputMethod   GetAxisRaw          	("Mouse X")
+		[ 9] : Line:  210	InputMethod   GetAxisRaw          	("Mouse Y")
+		[10] : Line:  213	InputMethod   GetAxisRaw          	("Xbox R Trigger")
+		[11] : Line:  213	InputMethod   GetButton           	("Fire")
+		[12] : Line:  219	InputMethod   GetAxisRaw          	("Xbox L Trigger")
+		[13] : Line:  219	InputMethod   GetButton           	("Zoom")
+		[14] : Line:  226	InputMethod   GetAxis             	("Xbox Dpad X")
+		[15] : Line:  236	InputMethod   GetAxis             	("Xbox Dpad X")
+		[16] : Line:  255	InputMethod   GetAxis             	("Xbox Dpad Y")
+		[17] : Line:  265	InputMethod   GetAxis             	("Xbox Dpad Y")
+		[18] : Line:  285	InputMethod   GetAxis             	("Mouse Scroll Wheel")
+		[19] : Line:  287	InputMethod   GetButtonDown       	("Fire")
+		[20] : Line:  288	InputMethod   GetButtonDown       	("Zoom")
+		[21] : Line:  289	InputMethod   GetButtonDown       	("Reload")
+		[22] : Line:  290	InputMethod   GetButtonDown       	("Fire Mode")
+		[23] : Line:  291	InputMethod   GetButton           	("Jump")
+		[24] : Line:  292	InputMethod   GetButtonDown       	("Jump")
+		[25] : Line:  293	InputMethod   GetButton           	("Crouch")
+		[26] : Line:  294	InputMethod   GetButton           	("Prone")
+		[27] : Line:  295	InputMethod   GetButton           	("Sprint")
+		[28] : Line:  296	InputMethod   GetButton           	("Lean Left")
+		[29] : Line:  297	InputMethod   GetButton           	("Lean Right")
+		[30] : Line:  298	InputMethod   GetButton           	("Use")
+		[31] : Line:  299	InputMethod   GetButtonDown       	("Use")
+		[32] : Line:  300	InputMethod   GetButtonUp         	("Use")
+		[33] : Line:  301	InputMethod   GetButton           	("Toggle Camera")
+		[34] : Line:  302	InputMethod   GetButtonDown       	("Toggle Camera")
+		[35] : Line:  303	InputMethod   GetButton           	("Throw Grenade")
+		[36] : Line:  304	InputMethod   GetButtonDown       	("Melee Attack")
+		[37] : Line:  305	InputMethod   GetButtonDown       	("Toggle Flashlight")
+		[38] : Line:  306	InputMethod   GetButtonDown       	("Holster Weapon")
+		[39] : Line:  307	InputMethod   GetButtonDown       	("Drop Weapon")
+		[40] : Line:  308	InputMethod   GetButtonDown       	("Bullet Time")
+		[41] : Line:  309	InputMethod   GetButtonDown       	("Toggle Deadzone Aiming")
+		[42] : Line:  310	InputMethod   GetButtonDown       	("Help")
+		[43] : Line:  311	InputMethod   GetButtonDown       	("Main Menu")
+		[44] : Line:  312	InputMethod   GetButtonDown       	("Pause")
+		[45] : Line:  313	InputMethod   GetButtonDown       	("Select Next Weapon")
+		[46] : Line:  314	InputMethod   GetButtonDown       	("Select Previous Weapon")
+		[47] : Line:  315	InputMethod   GetButtonDown       	("Select Next Grenade")
+		[48] : Line:  316	InputMethod   GetButtonDown       	("Select Weapon 1")
+		[49] : Line:  317	InputMethod   GetButtonDown       	("Select Weapon 2")
+		[50] : Line:  318	InputMethod   GetButtonDown       	("Select Weapon 3")
+		[51] : Line:  319	InputMethod   GetButtonDown       	("Select Weapon 4")
+		[52] : Line:  320	InputMethod   GetButtonDown       	("Select Weapon 5")
+		[53] : Line:  321	InputMethod   GetButtonDown       	("Select Weapon 6")
+		[54] : Line:  322	InputMethod   GetButtonDown       	("Select Weapon 7")
+		[55] : Line:  323	InputMethod   GetButtonDown       	("Select Weapon 8")
+		[56] : Line:  324	InputMethod   GetButtonDown       	("Select Weapon 9")
+		[57] : Line:  325	InputMethod   GetButtonDown       	("Select Weapon 0")
+
+Converting script [5 / 5]	[\RFPSP\Scripts\Weapons\WeaponPivot.cs]
+	Fragments : 4
+		[ 0] : Line:  111	Other mod.	[Cursor.lockState]
+		[ 1] : Line:  112	Other mod.	[Cursor.visible]
+		[ 2] : Line:  256	Other mod.	[Cursor.lockState]
+		[ 3] : Line:  257	Other mod.	[Cursor.visible]
+
+
+5 scripts modified!
+Overwriting actual scripts...
+	[0 / 5] from  [E:/Scary Teacher/CF2-Data/Script-Backups/2019-10-21-15-32\Assets-After/\RFPSP\Scripts\Camera\CameraControl.cs] to [E:/Scary Teacher/Assets/\RFPSP\Scripts\Camera\CameraControl.cs]
+	[1 / 5] from  [E:/Scary Teacher/CF2-Data/Script-Backups/2019-10-21-15-32\Assets-After/\RFPSP\Scripts\Camera\MovePlayerAndCamera.cs] to [E:/Scary Teacher/Assets/\RFPSP\Scripts\Camera\MovePlayerAndCamera.cs]
+	[2 / 5] from  [E:/Scary Teacher/CF2-Data/Script-Backups/2019-10-21-15-32\Assets-After/\RFPSP\Scripts\Camera\SmoothMouseLook.cs] to [E:/Scary Teacher/Assets/\RFPSP\Scripts\Camera\SmoothMouseLook.cs]
+	[3 / 5] from  [E:/Scary Teacher/CF2-Data/Script-Backups/2019-10-21-15-32\Assets-After/\RFPSP\Scripts\Player\InputControl.cs] to [E:/Scary Teacher/Assets/\RFPSP\Scripts\Player\InputControl.cs]
+	[4 / 5] from  [E:/Scary Teacher/CF2-Data/Script-Backups/2019-10-21-15-32\Assets-After/\RFPSP\Scripts\Weapons\WeaponPivot.cs] to [E:/Scary Teacher/Assets/\RFPSP\Scripts\Weapons\WeaponPivot.cs]
+
+Overwriting COMPLETED!

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NoHitMark
+  - Usable
+  - Metal
+  - Water
+  - Wood
+  - Flesh
+  - gun
+  - Glass
+  - Climbable
+  - Stone
+  - Dirt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Gun
+  - PostProcessing
+  - World Collision
+  - Player
+  - Bullet Shells
+  - NPCs
+  - GUICamera
+  - 
+  - 
+  - 
+  - Liquid Collision
+  - 
+  - LeanCollider
+  - Player Clip
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

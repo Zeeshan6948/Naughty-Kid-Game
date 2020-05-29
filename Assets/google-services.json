@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "147538189836",
+    "firebase_url": "https://jocker-robery-for-tta.firebaseio.com",
+    "project_id": "jocker-robery-for-tta",
+    "storage_bucket": "jocker-robery-for-tta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147538189836:android:52ae53cebe366793025829",
+        "android_client_info": {
+          "package_name": "com.taptoaction.Real.Gunfighter.Shooting.Strike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147538189836-bc1tsb6lpa3bpgl75ja09i3ecllvlj1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAklMp7xA9zoBBKtDEVpYOBxRkpYsnkE6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147538189836-bc1tsb6lpa3bpgl75ja09i3ecllvlj1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147538189836:android:89937826070040b4025829",
+        "android_client_info": {
+          "package_name": "com.taptoaction.joker.crime.clown.real.gangster.bank.hiest.robbery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147538189836-bc1tsb6lpa3bpgl75ja09i3ecllvlj1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAklMp7xA9zoBBKtDEVpYOBxRkpYsnkE6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147538189836-bc1tsb6lpa3bpgl75ja09i3ecllvlj1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147538189836:android:7be78e0edafc38f9025829",
+        "android_client_info": {
+          "package_name": "com.taptoaction.police.cow.boy.gunfighter.extreme.robot.motorbike.chase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147538189836-bc1tsb6lpa3bpgl75ja09i3ecllvlj1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAklMp7xA9zoBBKtDEVpYOBxRkpYsnkE6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147538189836-bc1tsb6lpa3bpgl75ja09i3ecllvlj1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147538189836:android:c9bc4c5ac48b746a025829",
+        "android_client_info": {
+          "package_name": "com.taptoaction.robot.grand.crime.city.rescue.mission"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147538189836-bc1tsb6lpa3bpgl75ja09i3ecllvlj1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAklMp7xA9zoBBKtDEVpYOBxRkpYsnkE6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147538189836-bc1tsb6lpa3bpgl75ja09i3ecllvlj1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

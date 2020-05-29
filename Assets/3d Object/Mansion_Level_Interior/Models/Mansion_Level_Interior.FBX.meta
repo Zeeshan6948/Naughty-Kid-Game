@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 6ad5dc0978c26d2419ce88c33138272b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: WP_Test_LivingRoom_01
+    100004: WP_Test_Props129
+    100006: WP_Test_Props130
+    100008: WP_Test_Props131
+    100010: WP_Test_Props132
+    100012: WP_Test_Props133
+    100014: WP_Test_Props134
+    100016: WP_Test_Props136
+    100018: WP_Test_Props137
+    100020: WP_Test_Props138
+    100022: WP_Test_Props139
+    100024: WP_Test_Props140
+    100026: WP_Test_Props141
+    100028: WP_Test_Props142
+    100030: WP_Test_Props143
+    100032: WP_Test_Props144
+    100034: Mansion_Interior
+    100036: Prop_Door
+    400000: //RootNode
+    400002: WP_Test_LivingRoom_01
+    400004: WP_Test_Props129
+    400006: WP_Test_Props130
+    400008: WP_Test_Props131
+    400010: WP_Test_Props132
+    400012: WP_Test_Props133
+    400014: WP_Test_Props134
+    400016: WP_Test_Props136
+    400018: WP_Test_Props137
+    400020: WP_Test_Props138
+    400022: WP_Test_Props139
+    400024: WP_Test_Props140
+    400026: WP_Test_Props141
+    400028: WP_Test_Props142
+    400030: WP_Test_Props143
+    400032: WP_Test_Props144
+    400034: Mansion_Interior
+    400036: Prop_Door
+    2300000: WP_Test_LivingRoom_01
+    2300002: WP_Test_Props129
+    2300004: WP_Test_Props130
+    2300006: WP_Test_Props131
+    2300008: WP_Test_Props132
+    2300010: WP_Test_Props133
+    2300012: WP_Test_Props134
+    2300014: WP_Test_Props136
+    2300016: WP_Test_Props137
+    2300018: WP_Test_Props138
+    2300020: WP_Test_Props139
+    2300022: WP_Test_Props140
+    2300024: WP_Test_Props141
+    2300026: WP_Test_Props142
+    2300028: WP_Test_Props143
+    2300030: WP_Test_Props144
+    2300032: Mansion_Interior
+    2300034: Prop_Door
+    3300000: WP_Test_LivingRoom_01
+    3300002: WP_Test_Props129
+    3300004: WP_Test_Props130
+    3300006: WP_Test_Props131
+    3300008: WP_Test_Props132
+    3300010: WP_Test_Props133
+    3300012: WP_Test_Props134
+    3300014: WP_Test_Props136
+    3300016: WP_Test_Props137
+    3300018: WP_Test_Props138
+    3300020: WP_Test_Props139
+    3300022: WP_Test_Props140
+    3300024: WP_Test_Props141
+    3300026: WP_Test_Props142
+    3300028: WP_Test_Props143
+    3300030: WP_Test_Props144
+    3300032: Mansion_Interior
+    3300034: Prop_Door
+    4300000: WP_Test_LivingRoom_01
+    4300002: WP_Test_Props129
+    4300004: WP_Test_Props130
+    4300006: WP_Test_Props131
+    4300008: WP_Test_Props132
+    4300010: WP_Test_Props133
+    4300012: WP_Test_Props134
+    4300014: WP_Test_Props136
+    4300016: WP_Test_Props137
+    4300018: WP_Test_Props138
+    4300020: WP_Test_Props139
+    4300022: WP_Test_Props140
+    4300024: WP_Test_Props141
+    4300026: WP_Test_Props142
+    4300028: WP_Test_Props143
+    4300030: WP_Test_Props144
+    4300032: Mansion_Interior
+    4300034: Prop_Door
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 986c2c16f27efb842b7c561fc4d10037, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MansionProps
+    second: {fileID: 2100000, guid: e2f35ae5388ca19499fcd102954aa7a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #71'
+    second: {fileID: 2100000, guid: 2656a1df28a1f344eb84db179b521381, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

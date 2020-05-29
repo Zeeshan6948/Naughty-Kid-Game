@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 432494cab9c24204ca3742ab9d267153
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cube
+    100004: Cube.001
+    100006: Cylinder
+    100008: Cylinder.000
+    100010: Cylinder.001
+    100012: Lamp
+    100014: oil can
+    100016: oil can.001
+    100018: oil can.002
+    100020: oil can.003
+    100022: oil can.004
+    100024: oil can.005
+    100026: oil can.006
+    100028: //RootNode
+    100030: Sphere
+    400000: Camera
+    400002: Cube
+    400004: Cube.001
+    400006: Cylinder
+    400008: Cylinder.000
+    400010: Cylinder.001
+    400012: Lamp
+    400014: oil can
+    400016: oil can.001
+    400018: oil can.002
+    400020: oil can.003
+    400022: oil can.004
+    400024: oil can.005
+    400026: oil can.006
+    400028: //RootNode
+    400030: Sphere
+    2000000: Camera
+    2100000: Material.006
+    2100002: Material.004
+    2100004: Material.003
+    2100006: combined
+    2100008: Material
+    2100010: Material.001
+    2100012: oil_self
+    2100014: glass
+    2100016: No Name
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cylinder
+    2300006: Cylinder.000
+    2300008: Cylinder.001
+    2300010: oil can
+    2300012: oil can.001
+    2300014: oil can.002
+    2300016: oil can.003
+    2300018: oil can.004
+    2300020: oil can.005
+    2300022: oil can.006
+    2300024: Sphere
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cylinder
+    3300006: Cylinder.000
+    3300008: Cylinder.001
+    3300010: oil can
+    3300012: oil can.001
+    3300014: oil can.002
+    3300016: oil can.003
+    3300018: oil can.004
+    3300020: oil can.005
+    3300022: oil can.006
+    3300024: Sphere
+    4300000: oil can.006
+    4300002: Cube.001
+    4300004: oil can.004
+    4300006: oil can.005
+    4300008: Cylinder
+    4300010: oil can.003
+    4300012: oil can.002
+    4300014: Cylinder.000
+    4300016: Cylinder.001
+    4300018: oil can.001
+    4300020: oil can
+    4300022: Sphere
+    4300024: Cube
+    6400000: Cube
+    6400002: Cube.001
+    6400004: Cylinder
+    6400006: Cylinder.000
+    6400008: Cylinder.001
+    6400010: oil can
+    6400012: oil can.001
+    6400014: oil can.002
+    6400016: oil can.003
+    6400018: oil can.004
+    6400020: oil can.005
+    6400022: oil can.006
+    6400024: Sphere
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: e17ba37927831a84cabd14773b800cb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 2f4b64068c8c99f47b6bfef73bbda71b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 16286aaf983b3b544959b70683d8fcc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: b25d4a7bbae5e8b408602246ff86e320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: a5476929dd98e6646996b8ae454054a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a9530848c97d19c4ab44f0fe52161358, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: combined
+    second: {fileID: 2100000, guid: ad4e9fcc5039b2b42a0f89f08476010c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: d3c5b3239fbda3c41b785072ed31b970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oil_self
+    second: {fileID: 2100000, guid: 612eaefe628a65e479da68f19857334e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 3
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

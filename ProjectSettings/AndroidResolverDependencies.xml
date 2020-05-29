@@ -1,0 +1,34 @@
+<dependencies>
+  <packages>
+    <package>com.android.support:appcompat-v7:27.1.1</package>
+    <package>com.android.support:support-v4:27.1.1</package>
+    <package>com.google.android.gms:play-services-ads:18.1.1</package>
+    <package>com.google.android.gms:play-services-ads-identifier:15.0.1</package>
+    <package>com.google.android.gms:play-services-base:15.0.1</package>
+    <package>com.google.firebase:firebase-analytics:17.0.1</package>
+    <package>com.google.firebase:firebase-analytics-unity:6.3.0</package>
+    <package>com.google.firebase:firebase-app-unity:6.3.0</package>
+    <package>com.google.firebase:firebase-common:18.0.0</package>
+    <package>com.google.firebase:firebase-iid:[19.0.1]</package>
+    <package>com.google.firebase:firebase-messaging:19.0.1</package>
+    <package>com.google.firebase:firebase-messaging-unity:6.3.0</package>
+  </packages>
+  <files>
+    <file>Assets/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/6.3.0/firebase-analytics-unity-6.3.0.aar</file>
+    <file>Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/6.3.0/firebase-app-unity-6.3.0.aar</file>
+    <file>Assets/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/6.3.0/firebase-messaging-unity-6.3.0.aar</file>
+  </files>
+  <settings>
+    <setting name="androidAbis" value="armeabi-v7a" />
+    <setting name="bundleId" value="com.taptoaction.joker.crime.clown.real.gangster.bank.hiest.robbery" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="True" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="packageDir" value="Assets\Plugins\Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>

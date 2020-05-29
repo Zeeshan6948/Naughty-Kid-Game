@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: ea5e7d2a13b95dc41a1ad24e050fc4ea
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: GunAndRightArm
+    100002: GunAnim
+    100004: GunBody
+    100006: GunPosition
+    100008: Hammer
+    100010: Magazine
+    100012: //RootNode
+    100014: polySurface24
+    100016: polySurface25
+    100018: Slide
+    400000: GunAndRightArm
+    400002: GunAnim
+    400004: GunBody
+    400006: GunPosition
+    400008: Hammer
+    400010: Magazine
+    400012: //RootNode
+    400014: polySurface24
+    400016: polySurface25
+    400018: Slide
+    2300000: GunBody
+    2300002: Hammer
+    2300004: Magazine
+    2300006: polySurface24
+    2300008: polySurface25
+    3300000: GunBody
+    3300002: Hammer
+    3300004: Magazine
+    3300006: polySurface24
+    3300008: polySurface25
+    4300000: Magazine
+    4300002: polySurface25
+    4300004: Hammer
+    4300006: GunBody
+    4300008: polySurface24
+    7400000: Fire
+    7400002: Idle
+    7400004: Reload
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fire
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GunAndRightArm
+        weight: 1
+      - path: GunAndRightArm/GunPosition
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/GunBody
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/GunBody/polySurface24
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/Hammer
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/Magazine
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/Slide
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/Slide/polySurface25
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 14
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GunAndRightArm
+        weight: 1
+      - path: GunAndRightArm/GunPosition
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/GunBody
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/GunBody/polySurface24
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/Hammer
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/Magazine
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/Slide
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/Slide/polySurface25
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Reload
+      takeName: Take 001
+      firstFrame: 3
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GunAndRightArm
+        weight: 1
+      - path: GunAndRightArm/GunPosition
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/GunBody
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/GunBody/polySurface24
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/Hammer
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/Magazine
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/Slide
+        weight: 1
+      - path: GunAndRightArm/GunPosition/GunAnim/Slide/polySurface25
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
